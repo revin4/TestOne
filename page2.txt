@@ -5,6 +5,7 @@ Green
 White
 Purple
 Magenta
+Pink
 Black
 Orange 
 etc.
