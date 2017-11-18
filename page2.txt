@@ -1,5 +1,6 @@
 Colors Name:
 Red
+Silver color
 Yellow
 Green
 White
