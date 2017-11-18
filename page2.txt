@@ -1,0 +1,8 @@
+Colors Name:
+Red
+Yellow
+Green
+Purple
+Magenta
+Orange 
+etc.
