@@ -2,6 +2,7 @@ Colors Name:
 Red
 Yellow
 Green
+White
 Purple
 Magenta
 Black
