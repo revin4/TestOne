@@ -4,5 +4,6 @@ Yellow
 Green
 Purple
 Magenta
+Black
 Orange 
 etc.
